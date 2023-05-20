@@ -1,2 +1,2 @@
-model_checkpoint_path: "DeepLabV3plus-Fire-Segmentation"
-all_model_checkpoint_paths: "DeepLabV3plus-Fire-Segmentation"
+model_checkpoint_path: "DeepLab224"
+all_model_checkpoint_paths: "DeepLab224"
